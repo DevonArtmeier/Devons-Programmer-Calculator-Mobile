@@ -1,7 +1,7 @@
 # Devon's Programmer Calculator (Mobile)
 ![Calculator](CalculatorMobile.png)
 
-A port of the [quick and dirty calculator](https://github.com/DevonArtmeier/Devons-Programmer-Calculator) for programming purposes that I made to mobile devices. Supports:
+A port of the [quick and dirty calculator](https://github.com/DevonArtmeier/Devons-Programmer-Calculator) for programming purposes that I made to mobile devices using .NET MAUI. Supports:
 * Standard mathematical operations
 * Binary, octal, decimal, and hexadecimal numbers
 * Signed and unsigned numbers
